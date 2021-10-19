@@ -1,0 +1,30 @@
+{
+    "email_title": {
+        "en": "Email Title",
+        "pt": "Título do Email"
+    },
+    "email_intro": {
+        "en": "Hello,",
+        "pt": "Olá,"
+    },
+    "email_body_delivery_update": {
+        "en": "Your product %PRODUCT% is ready to go out for delivery, wait for more updates via your email.",
+        "pt": "Seu produto está pronto %PRODUTO% para sair para a entrega, aguarde mais atualizações através do seu email."
+    },
+    "footer_header": {
+        "en": "Email Preferences",
+        "pt": "Preferências de Email"
+    },
+    "footer_body": {
+        "en": "Set your locale and frequency so we can send you emails that matter.",
+        "pt": "Defina sua localidade e frequência para que possamos enviar e-mails importantes."
+    },
+    "footer_unsub":{
+        "en": "Unsubscribe",
+        "pt": "Cancelar Inscrição"
+    },
+    "footer_sub_update":{
+        "en": "Update My Preferences",
+        "pt": "Atualizar Minha Preferências"
+    }
+}
