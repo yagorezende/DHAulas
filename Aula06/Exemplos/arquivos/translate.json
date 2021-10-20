@@ -9,7 +9,7 @@
     },
     "email_body_delivery_update": {
         "en": "Your product %PRODUCT% is ready to go out for delivery, wait for more updates via your email.",
-        "pt": "Seu produto está pronto %PRODUTO% para sair para a entrega, aguarde mais atualizações através do seu email."
+        "pt": "Seu produto %PRODUTO% está pronto para sair para a entrega, aguarde mais atualizações através do seu email."
     },
     "footer_header": {
         "en": "Email Preferences",
